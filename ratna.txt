@@ -1,3 +1,5 @@
 echo "Hello World"
 echo "ratna"
+echo "User" "
+echo $user
 #1
